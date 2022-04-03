@@ -1,0 +1,16 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "mass",
+         "value" : "1.9885 * 10 ** 30 kg"
+      },
+      {
+        "trait_type" : "radius",
+        "value" : "695700 km"
+     }
+   ], 
+   "description" : "The Sun is the star at the center of the Solar System",
+    "external_url" : "https://example.com/?token_id=2",
+    "image" : "https://bafybeihq762nqkicfd5koz44hvpegkebpgsquws5kga63cxsp6wdou3uli.ipfs.dweb.link/images/2.jpg",
+    "name" : "The Sun"
+}

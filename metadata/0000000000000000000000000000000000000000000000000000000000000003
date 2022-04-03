@@ -1,0 +1,16 @@
+{
+   "attributes" : [
+      {
+         "trait_type" : "mass",
+         "value" : "5.972 * 10 ** 24 kg"
+      },
+      {
+        "trait_type" : "radius",
+        "value" : "6378 km"
+     }
+   ],
+   "description" : "Earth is the third planet from the Sun and the only astronomical object known to harbor life",
+    "external_url" : "https://example.com/?token_id=3",
+    "image" : "https://bafybeihq762nqkicfd5koz44hvpegkebpgsquws5kga63cxsp6wdou3uli.ipfs.dweb.link/images/3.png",
+    "name" : "The Earth"
+}
